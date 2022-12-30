@@ -10,7 +10,7 @@ require (
 	contrib.go.opencensus.io/exporter/prometheus v0.3.0
 	contrib.go.opencensus.io/exporter/stackdriver v0.13.5
 	github.com/NYTimes/gziphandler v1.1.1
-	github.com/aws/aws-sdk-go v1.30.15
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/bradfitz/go-smtpd v0.0.0-20170404230938-deb6d6237625
 	github.com/coreos/go-systemd v0.0.0-20190719114852-fd7a80b32e1f
 	github.com/creack/pty v1.1.15
