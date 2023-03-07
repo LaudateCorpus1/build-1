@@ -36,12 +36,12 @@ require (
 	go4.org v0.0.0-20180809161055-417644f6feb5
 	golang.org/x/crypto v0.0.0-20220126234351-aa10faf2a1f8
 	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d
-	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.0.0-20210628180205-a41e5a781914
 	golang.org/x/perf v0.0.0-20210220033136-40a54f11e909
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
-	golang.org/x/text v0.3.6
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/sys v0.5.0
+	golang.org/x/text v0.7.0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	google.golang.org/api v0.51.0
 	google.golang.org/genproto v0.0.0-20210726143408-b02e89920bf0
@@ -82,8 +82,8 @@ require (
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	go.uber.org/atomic v1.6.0 // indirect
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect
-	golang.org/x/mod v0.4.2 // indirect
-	golang.org/x/tools v0.1.5 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
+	golang.org/x/tools v0.1.12 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6 // indirect
